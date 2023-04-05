@@ -6,7 +6,6 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nathaliaatamanchuk&theme=midnight-purple&show_icons=true)](https://github.com/nathaliaatamanchuk/github-readme-stats)
 
-
 <div style= "display: inline_block"><br>
   <img align="center" alt="Nathalia-Java" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="center" alt="Nathalia-Jetbrains" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg">
