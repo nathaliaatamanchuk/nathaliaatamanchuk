@@ -4,6 +4,5 @@
 - ☕ I’m currently learning Java and C
 - 😄 Pronouns: She/Her
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nathaliaatamanchuk)](https://github.com/nathaliaatamanchuk/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nathalia&theme=dark&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nathalia&theme=midnight-purple&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nathaliaatamanchuk)](https://github.com/nathaliaatamanchuk/github-readme-stats)
