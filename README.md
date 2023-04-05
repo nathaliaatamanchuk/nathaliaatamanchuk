@@ -9,6 +9,6 @@
 
 <div style= "display: inline_block"><br>
   <img align="center" alt="Nathalia-Java" height="35" width="45" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
-  <img align="center" alt="Nathalia-Angular" height="30" width="40" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
-  <img align="center" alt="Nathalia-Spring" height="30" width="40" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
+  <img align="center" alt="Nathalia-Angular" height="35" width="45" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
+  <img align="center" alt="Nathalia-Spring" height="35" width="45" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
 </div>
