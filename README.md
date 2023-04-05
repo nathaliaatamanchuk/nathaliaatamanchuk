@@ -7,7 +7,7 @@
 - 🌱 English: Intermediate
 - 🌱 Deutsch: Basic
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nathaliaatamanchuk&theme=midnight-purple&show_icons=true)](https://github.com/nathaliaatamanchuk/github-readme-stats)
+[![Nathalia's GitHub stats](https://github-readme-stats.vercel.app/api?username=nathaliaatamanchuk&theme=midnight-purple&show_icons=true)](https://github.com/nathaliaatamanchuk/github-readme-stats)
 
 <div style= "display: inline_block"><br>
   <img align="center" alt="Nathalia-Java" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
