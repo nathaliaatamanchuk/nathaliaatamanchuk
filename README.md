@@ -1,17 +1,30 @@
 ### Hi there, I'm Nathalia Atamanchuk 👋
 
-- ☕ I’m currently learning Java 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9745f5&height=120&section=header"/>
 
-#### Languages:
-- 🌱 Português (Brasil): Nativo/Fluente
-- 🌱 English: Intermediate
-- 🌱 Deutsch: Basic
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=9745f5&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Nathalia+Atamanchuk;I'm+17+years+old;I'm+a+fullstack+Java+developer;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-[![Nathalia's GitHub stats](https://github-readme-stats.vercel.app/api?username=nathaliaatamanchuk&theme=midnight-purple&show_icons=true)](https://github.com/nathaliaatamanchuk/github-readme-stats)
-
-<div style= "display: inline_block"><br>
-  <img align="center" alt="Nathalia-Java" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-  <img align="center" alt="Nathalia-Jetbrains" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg">
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=nathaliaatamanchuk&show_icons=true&count_private=true&hide_border=true&title_color=9745f5&icon_color=9f4bff&text_color=ffffff&bg_color=0d1117" alt="Nathalia Atamanchuk github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathaliaatamanchuk&layout=compact&hide_border=true&title_color=9745f5&text_color=ffffff&bg_color=0d1117" />
 </div>
 
+### Programming language that I work!
 
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" title = "Java"/></code>
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title = "TypeScript"/></code>
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title = "HTML"/></code>
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title = "CSS"/></code>
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title = "JS"/></code>
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" title = "C"/></code>
+
+### Technologies I use to code!
+
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" title = "Angular"/></code>
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" title = "SpringBoot"/></code>
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title = "Nodejs"/></code>
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" title = "JetBrains"/></code>
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title = "VSCode"/></code>
+
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9745f5&height=120&section=footer"/>
