@@ -7,7 +7,7 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathaliaatamanchuk&layout=compact&hide_border=true&title_color=9745f5&text_color=ffffff&bg_color=0d1117" />
 </div>
 
-### ➜ Programming language that I'm studying!
+### ➜ Programming languages that I'm studying!
 
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" title = "Java"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title = "TypeScript"/></code>
