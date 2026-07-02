@@ -1,6 +1,6 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9745f5&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0050e9&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?color=9745F5&size=35&center=true&vCenter=true&width=1000&lines=Hi+there!+My+name+is+Nathalia+Atamanchuk;I%27m+a+software+developer;Be+Welcome!+%3A%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?color=0050e9&size=35&center=true&vCenter=true&width=1000&lines=Hi+there!+My+name+is+Nathalia+Atamanchuk;I%27m+a+software+developer;Be+Welcome!+%3A%29)](https://git.io/typing-svg)
 
 ### ➜ Programming languages that I'm studying!
 
@@ -16,4 +16,4 @@
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title = "VSCode"/></code>
 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9745f5&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0050e9&height=120&section=footer"/>
